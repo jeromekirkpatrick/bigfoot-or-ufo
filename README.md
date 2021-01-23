@@ -1,4 +1,4 @@
-![bigfootufo](https://github.com/jeromekirkpatrick/bigfoot-or-ufo/blob/main/sasquatchUFO.jpg)
+![bigfootufo](https://github.com/jeromekirkpatrick/bigfoot-or-ufo/blob/main/bigfoot%20ufo%20high%20quality.png)
 # BIGFOOT vs UFO Classifier
 
 ## Part 1 - Exploring Beautiful Soup
