@@ -15,9 +15,9 @@ Prepping steps taken for both dfs before machine learning.
 
 * CountVectorizer and TfidfVectorizer
 * Train-test-split
-* Naïve Bayes Classificatier
+* Naïve Bayes Classifier
   * Bernoulli
   * Multinomial
-* Random Forest Classificatier
+* Random Forest Classifier
 * roc-auc curves and scores
 
