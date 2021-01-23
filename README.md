@@ -1,5 +1,4 @@
-# bigfoot-or-ufo
-Bigfoot-or-UFO classifier
+# Bigfoot-or-UFO Classifier
 
 ## Part 1 - Exploring Beautiful Soup
 
