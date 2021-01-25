@@ -22,3 +22,5 @@ Prepping steps taken for both dfs before machine learning.
 * Random Forest Classifier
 * roc-auc curves and scores
 
+## Part - Testing on New Data
+Made up stories and individual words.
